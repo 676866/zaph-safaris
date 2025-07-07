@@ -3,37 +3,37 @@ import { Box, Typography, Grid, Card, CardMedia, CardContent } from '@mui/materi
 const destinations = [
   {
     name: "Mt. Kenya",
-    image: "/public/Mt.Kenya.avif",
+    image: "https://lp-cms-production.imgix.net/2022-06/4-Shipton-Camp--rfc.jpg?auto=format,compress&q=72&fit=crop",
     description: "Trek Africa's second-highest peak and explore alpine landscapes.",
     price: "$850",
   },
   {
     name: "Mt. Ruwenzori",
-    image: "public/Mt.Ruwenzori.avif",
+    image: "https://i0.wp.com/www.gorilla-tracking.com/wp-content/uploads/2019/09/rwenzori-mountains1.jpg?fit=1440%2C810&ssl=1",
     description: "A mystical mountain range with glaciers and lush valleys.",
     price: "$950",
   },
   {
     name: "Lake Nakuru",
-    image: "public/Lake Nakuru.avif",
+    image: "https://www.lakenakurukenya.com/wp-content/uploads/2020/09/The-Wonders-of-Lake-Nakuru-National-Park--750x389.jpg",
     description: "Famous for flamingos and rhinos in a scenic Rift Valley setting.",
     price: "$600",
   },
   {
     name: "Tsavo National Park",
-    image: "public/Tsavo National Park.avif",
+    image: "https://www.tsavonationalparkkenya.com/wp-content/uploads/2020/04/Tsavo-National-Park-750x450.jpg",
     description: "Home to the big five, vast savannahs, and red elephants.",
     price: "$700",
   },
   {
     name: "Nairobi National Park",
-    image: "public/Nairobi National Park.avif",
+    image: "https://lh6.googleusercontent.com/proxy/iRAukrEXF-23ASB1NKK9rV3sTJ-eSuWmuXpaiTZeq5xxOJxntW2k0s0WlBhs-EvTpC9xbKIZ05a_mbQGCGWQ04pGgYGBsh4MBnfSnDujyj1ydQwWUzqmypOX9-WthwZboZ8rL5anN0fPOcxRjg",
     description: "Wildlife next to the city skyline — unique and accessible.",
     price: "$500",
   },
   {
     name: "Coastal Kenya",
-    image: "public/Coastal Kenya.avif",
+    image: "https://cloudfront.safaribookings.com/blog/2024/01/07-Top_10_Places_to_Visit_Along_the_Kenya_Coast-BW-1600px.jpg",
     description: "Relax on white sandy beaches and enjoy Swahili culture.",
     price: "$1,200",
   },

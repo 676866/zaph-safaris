@@ -40,7 +40,7 @@ const destinations = [
   },
   {
     name: 'Nairobi National Park',
-    image: 'public/Nairobi National Park.avif',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ756nNq29uxcnsZMPHe_nBzQRuHcMe23DHRQ&s',
     description: 'Where wildlife meets the city skyline.',
     groupPrice: '$500 per group',
     soloPrice: '$180 per person',

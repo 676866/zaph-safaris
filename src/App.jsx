@@ -4,7 +4,6 @@ import About from './components/About';
 import FeaturedDestinations from './components/FeaturedDestinations';
 import Testimonials from './components/Testimonials';
 import Newsletter from './components/Newsletter';
-import Footer from './components/Footer';
 
 
 function App() {
@@ -16,6 +15,7 @@ function App() {
         <FeaturedDestinations />
         <Testimonials /> 
         <Newsletter />
+        
          
     </>
   );
